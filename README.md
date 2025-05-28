@@ -32,3 +32,9 @@ PLM_Transit_Assignment
 │   └── README.md              # Detailed usage guide
 
 └── README.md                  # Main documentation
+```
+## 🧰 Environment Requirements
+
+- Python **3.6 or higher** is required.
+- Tested under **Python 3.9**.
+- Please make sure all libraries used in `PLM/Source_Code/MSA_with_detection.py` are installed:
